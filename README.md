@@ -7,6 +7,7 @@ This projected was created by Kudzai madziva  using PHP, CSS, HTML and Javascrip
 # How to run this project
 start XAMPP server\
 upload the project to xampp/htdocs\
+create new database binary_city_task_dec_db\
 import the database file to phpMyadmin\
 Open [http://localhost/crudphpajax](http://localhost/crudphpajax) to view it in your browser.
 
